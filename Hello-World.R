@@ -52,7 +52,12 @@ git clone https://github.com/StewartResearch/hello-world.git
 # git push
 
 # the above will update all files in the repository
+# but the message will be specific to anything that is changed
 # you can then double check the push by going to the GitHub URL for that repository
+# OR, you can go to GitKraken or some other platform you may be using.
+
+# ALWAYS REMEMBER TO SAVE YOUR FILES IN R/RSTUDIO 
+#  Git will only update what has been saved. 
 
 
 
