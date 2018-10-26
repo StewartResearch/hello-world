@@ -52,6 +52,8 @@ git clone https://github.com/StewartResearch/hello-world.git
 # git push
 
 # the above will update all files in the repository
+# you can then double check the push by going to the GitHub URL for that repository
+
 
 
 
